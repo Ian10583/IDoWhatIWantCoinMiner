@@ -1,3 +1,4 @@
+@echo off
 ECHO Initializing...
 ECHO Initialized
 PAUSE
